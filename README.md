@@ -9,4 +9,4 @@ Speckleszzzz/Speckleszzzz is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://leetcard.speckleszzzz.cool/lapor?ext=heatmap)
+![](https://leetcard.Speckleszzzz.cool/lapor?ext=heatmap)
